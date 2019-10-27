@@ -1,10 +1,7 @@
 ﻿<h1 align='center'>Aneka Musik </h1>
 
-</br >
 <p align='center'>React Native Music Instrument Ecommerce</p>
 
-<br>
-<br>
 
 ## Introduction
 
