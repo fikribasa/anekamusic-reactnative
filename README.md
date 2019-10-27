@@ -9,7 +9,7 @@
 
 <p align='justify'>AnekaMusik is an Music Instrument Ecommerce Application to show Music Instrument with User Login/Register, Wishlist, Cart Feature. Aneka Musik was built using React Native and MySql database </p>
 
-You Need [AnekaMusik Backend](https://github.com/fikribasa/anekamusik-front) to make this App usable.
+You Need [AnekaMusik Backend](https://github.com/fikribasa/anekamusik-back) to make this App usable.
 
 ## Requirements
 
